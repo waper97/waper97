@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/base-api/base-api.iml" filepath="$PROJECT_DIR$/api/base-api/base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/base-service/base-service.iml" filepath="$PROJECT_DIR$/service/base-service/base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waper97.iml" filepath="$PROJECT_DIR$/waper97.iml" />
+    </modules>
+  </component>
+</project>

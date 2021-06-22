@@ -1,0 +1,13 @@
+server:
+  port: 7777
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    # 是否让自己也注册到Eureka上
+    register-with-eureka: false
+    # 是否到Eureka上抓取注册信息
+    fetch-registry: false
+spring:
+  application:
+    name: gateway-service
